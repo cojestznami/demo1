@@ -31,5 +31,5 @@ list_url = [link.get_attribute("href") for link in list1]
 print(list_url)
 print(list1)
 print(len(list_url))
-time.sleep(90)
+time.sleep(80)
 # if __name__ == '__main__':
